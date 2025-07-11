@@ -96,9 +96,3 @@
 
 > _“Don't limit your challenges. Challenge your limits.”_
 
----
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=120&section=footer" />
-</p>
