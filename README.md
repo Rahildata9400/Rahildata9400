@@ -11,32 +11,38 @@
 
 ---
 
-### 🚀 About Me
+### 🧑‍🎓 About Me
 
-- 🎓 **M.Sc. Information Technology** (2024 Graduate)  
-- 💼 **2 years** of professional experience at **Enfuse Solutions Pvt Ltd**  
-- 🧠 Passionate about clean design, seamless UX, and scalable web tech  
-- 🌱 Currently enhancing my **full-stack & mobile development** skills  
+🎓 I recently completed my **Master of Science in Information Technology (2024)**  
+💼 Previously worked at **Enfuse Solutions Pvt Ltd** with 2 years of hands-on experience  
+🌐 Specialized in building and managing **websites using WordPress and CMS tools**
 
 ---
 
-### 🛠️ Skills & Tools
+### 💼 Expertise
 
-**Languages & Frameworks:**  
-`HTML` · `CSS` · `Java` · `JavaScript`
+- 🧩 **CMS Management**: WordPress & E-commerce platforms  
+- 🛒 **E-Commerce Site Management**  
+- 🌍 **Creating Custom Pages** with WordPress  
+- 💻 **Frontend Development**: HTML, CSS, Java  
+- 📱 **Android App Prototyping** with Android Studio  
 
-**CMS & Web:**  
-`WordPress` · `WooCommerce` · `Elementor`
+---
 
-**Tools & IDEs:**  
-`Android Studio` · `Visual Studio Code` · `Git & GitHub`
+### 🛠️ Tools & Technologies
+
+| Category         | Tools/Platforms                  |
+|------------------|----------------------------------|
+| 🔧 Programming   | HTML, CSS, Java                  |
+| 🖥️ IDEs          | Visual Studio Code, Android Studio |
+| 🌐 CMS & Web     | WordPress, WooCommerce           |
 
 ---
 
 ### 📜 Certifications
 
-- ✅ Web Development Certificate  
-- ✅ Java Programming Certificate
+- ✅ Web Developer Certificate  
+- ✅ Java Programming Certificate  
 
 ---
 
