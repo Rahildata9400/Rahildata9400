@@ -5,10 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=180&section=header&text=Rahil%20Khan%20👨‍💻&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🚀 WordPress Developer | Android Enthusiast | Tech Explorer</h2>
+<h2 align="center">🚀 WordPress Developer | Android Studio | Website Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00b894&center=true&width=435&lines=Web+Developer+%F0%9F%92%BB;WordPress+Expert+%F0%9F%96%A5%EF%B8%8F;Android+Studio+Learner+%F0%9F%93%B1;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00b894&center=true&width=435&lines=Web+Developer+%F0%9F%92%BB;WordPress+%F0%9F%96%A5%EF%B8%8F;Android+Studio+Developer+%F0%9F%93%B1;Open+to+Remote+Opportunities" />
 </p>
 
 ---
