@@ -14,10 +14,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00b894&center=true&width=435&lines=Web+Developer+%F0%9F%92%BB;WordPress+Developer+%F0%9F%96%A5%EF%B8%8F;Android+Studio+Developer+%F0%9F%93%B1;Open+to+Remote+Opportunities" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Gif" />
-</p>
-
 ---
 
 ## 👨‍🎓 About Me
