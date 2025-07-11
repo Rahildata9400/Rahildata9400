@@ -1,9 +1,6 @@
 <!-- Stylish GitHub Profile README: Rahil Khan -->
 
-<!-- Top Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=180&section=header&text=Rahil%20Khan%20👨‍💻&fontSize=40&fontColor=ffffff" />
-</p>
+<h1 align="center">Hi there 👋, I'm Rahil Khan</h1>
 
 <h2 align="center">🚀 WordPress Developer | Android Studio | Website Developer</h2>
 
