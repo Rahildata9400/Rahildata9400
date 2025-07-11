@@ -1,68 +1,82 @@
-<!-- Game-Styled GitHub Profile README -->
+<!-- Stylish GitHub Profile README: Rahil Khan -->
 
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=180&section=header&text=🕹️%20Rahil%20Khan%20%7C%20Dev%20Profile%20Quest&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=180&section=header&text=Rahil%20Khan%20👨‍💻&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🎯 Level 24 • Class: WordPress Warrior • Guild: Enfuse Solutions</h2>
+<h2 align="center">🚀 WordPress Developer | Android Enthusiast | Tech Explorer</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Game Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00b894&center=true&width=435&lines=Web+Developer+%F0%9F%92%BB;WordPress+Expert+%F0%9F%96%A5%EF%B8%8F;Android+Studio+Learner+%F0%9F%93%B1;Open+to+Remote+Opportunities" />
 </p>
 
 ---
 
-## 🧙‍♂️ Character Sheet
+## 👨‍🎓 About Me
 
-- **🧾 Name:** Rahil Khan  
-- **🎓 Education:** Master of Science in Information Technology (2024)  
-- **🏢 Former Guild:** Enfuse Solutions Pvt Ltd (2 Years Experience)  
-- **🧠 Role:** Web Developer, CMS Master, Android Apprentice  
-- **⚔️ Questline:** Creating E-commerce, Responsive Websites & Mobile Apps  
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
+
+- 🎓 **M.Sc. in Information Technology** – Graduated 2024  
+- 💼 Worked at **Enfuse Solutions Pvt Ltd** for 2+ years  
+- 🧰 Specialized in **WordPress & E-commerce Website Management**  
+- 📱 Android Studio learner, passionate about **mobile UI**  
+- 💻 Focused on building **modern, responsive websites**  
 
 ---
 
-## 🧪 Tech Arsenal (Inventory)
+## 🧠 Skills & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,java,androidstudio,vscode,git" />
 </p>
 
-| Tool Type     | Weapon/Artifact                      |
-|---------------|--------------------------------------|
-| 🧱 CMS Tools   | WordPress, WooCommerce              |
-| 🧙‍♂️ Code Spells | HTML5, CSS3, Java                 |
-| 🧰 Dev Gear    | Visual Studio Code, GitHub, Android Studio |
-| 🧠 Abilities   | UI Design, E-commerce, CMS Integration |
+| Area             | Tools & Skills                                      |
+|------------------|-----------------------------------------------------|
+| CMS Management   | WordPress, WooCommerce, Elementor                   |
+| Programming      | HTML5, CSS3, Java                                   |
+| Web Design       | Responsive Design, Page Builders                    |
+| IDEs & Tools     | Android Studio, Visual Studio Code, GitHub          |
 
 ---
 
-## 📜 Achievements & Badges
-
-- 🏅 Web Development Certificate  
-- 🏅 Java Programming Certificate  
-- 🎯 Created and Managed Multiple Live E-commerce Sites  
-- 🔒 Mastered WordPress Page Builders and Themes
-
----
-
-## 🎮 Player Stats (GitHub Progress)
+## 🧰 Software Proficiency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahildata9400&show_icons=true&theme=merko" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahildata9400&theme=merko" width="47%" />
+  <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" />
+  <img src="https://img.icons8.com/color/96/html-5.png" title="HTML5" />
+  <img src="https://img.icons8.com/color/96/css3.png" title="CSS3" />
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" title="Java" />
+  <img src="https://img.icons8.com/color/96/android-studio--v2.png" title="Android Studio" />
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" title="VS Code" />
 </p>
 
 ---
 
-## 🗺️ World Map – Social Portals
+## 📜 Certifications
+
+- ✅ Web Developer Certificate  
+- ✅ Java Programming Certificate  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahildata9400&show_icons=true&theme=chartreuse-dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahildata9400&theme=chartreuse-dark" width="47%" />
+</p>
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:Rahilkhan76663@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F23127?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rahil-khan-9421a4211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rahildata9400" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,19 +85,19 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://www.naukri.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Naukri-0054A6?style=for-the-badge&logo=naukri&logoColor=white" />
+    <img src="https://img.shields.io/badge/Naukri-0072CE?style=for-the-badge&logo=naukri&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧭 Lore & Quotes
+## ✨ Quote I Live By
 
-> _“A coder’s journey is never over. The next level always awaits.”_  
-> — **Rahil Khan**
+> _“Don't limit your challenges. Challenge your limits.”_
 
 ---
 
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=120&section=footer" />
 </p>
