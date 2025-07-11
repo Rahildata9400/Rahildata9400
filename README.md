@@ -18,8 +18,7 @@
 
 ## 👨‍🎓 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Gif" />
-
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
 
 - 🎓 **M.Sc. in Information Technology** – Graduated 2024  
 - 💼 Worked at **Enfuse Solutions Pvt Ltd** for 3+ years  
