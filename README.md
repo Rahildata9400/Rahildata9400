@@ -22,6 +22,7 @@
 - 🧰 Specialized in **WordPress & E-commerce Website Management**  
 - 📱 Android Studio learner, passionate about **mobile UI**  
 - 💻 Focused on building **modern, responsive websites**  
+- 📅 **Joined GitHub on 11 July 2025**
 
 ---
 
