@@ -18,7 +18,7 @@
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
 
 - 🎓 **M.Sc. in Information Technology** – Graduated 2024  
-- 💼 Worked at **Enfuse Solutions Pvt Ltd** for 2+ years  
+- 💼 Worked at **Enfuse Solutions Pvt Ltd** for 3+ years  
 - 🧰 Specialized in **WordPress & E-commerce Website Management**  
 - 📱 Android Studio learner, passionate about **mobile UI**  
 - 💻 Focused on building **modern, responsive websites**  
