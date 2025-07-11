@@ -1,182 +1,74 @@
-<h1 align="center">Hi, I'm Rahil Khan 👋</h1>
-<h3 align="center">Web Developer | WordPress Expert | Tech Enthusiast</h3>
+<!-- GitHub Profile README: Rahil Khan -->
+
+<h1 align="center">👋 Hey there! I'm <span style="color:#0abde3">Rahil Khan</span></h1>
+<h3 align="center">🚀 WordPress Developer | Web Tech Enthusiast | Android Learner</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="60"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Gif" />
 </p>
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍💻 About Me
 
-🎓 I recently completed my **Master of Science in Information Technology (2024)**  
-💼 Previously worked at **Enfuse Solutions Pvt Ltd** with 2 years of hands-on experience  
-🌐 Specialized in building and managing **websites using WordPress and CMS tools**
-
----
-
-### 💼 Expertise
-
-- 🧩 **CMS Management**: WordPress & E-commerce platforms  
-- 🛒 **E-Commerce Site Management**  
-- 🌍 **Creating Custom Pages** with WordPress  
-- 💻 **Frontend Development**: HTML, CSS, Java  
-- 📱 **Android App Prototyping** with Android Studio  
+🎓 **M.Sc. in Information Technology (2024)**  
+💼 2 years at **Enfuse Solutions Pvt Ltd** as a Web Developer  
+🧠 Passionate about **WordPress**, **Android**, and crafting responsive web designs  
+📍 Based in India, open to remote opportunities  
 
 ---
 
-### 🛠️ Tools & Technologies
-
-| Category         | Tools/Platforms                  |
-|------------------|----------------------------------|
-| 🔧 Programming   | HTML, CSS, Java                  |
-| 🖥️ IDEs          | Visual Studio Code, Android Studio |
-| 🌐 CMS & Web     | WordPress, WooCommerce           |
-
----
-
-### 📜 Certifications
-
-- ✅ Web Developer Certificate  
-- ✅ Java Programming Certificate  
-
----
-
-### 📈 GitHub Stats
+## 🚀 My Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahilkhan-dev&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahilkhan-dev&theme=gruvbox" width="47%" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,wordpress,androidstudio,vscode,git" />
+</p>
+
+### ⚒️ Tools I Use
+
+- **Frontend**: HTML5, CSS3  
+- **Programming**: Java, Basic JS  
+- **CMS**: WordPress, WooCommerce  
+- **IDEs**: Visual Studio Code, Android Studio  
+- **Certifications**: Web Dev & Java Certified  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahilkhan-dev&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahilkhan-dev&theme=radical" width="47%" />
 </p>
 
 ---
-### 📫 Connect With Me
+
+## 📬 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahilkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:rahilkhan@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:rahilkhan@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Naukri-0054A6?style=for-the-badge&logo=naukri&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Always learning. Always building. ✨</p>
-📌 Instructions to Customize:
-Image Link: Replace https://user-images.githubusercontent.com/your-image-link.gif with a real GitHub-hosted image or use your photo from Imgur/GitHub.
+## 🌟 Featured Quote
 
-GitHub username: Replace rahilkhan-dev with your actual GitHub username.
+> _“Learning to write programs stretches your mind, and helps you think better.”_  
+> — **Bill Gates**
 
-Social Links: Update LinkedIn and email with your actual information.
-
-Would you like me to generate a custom image (e.g., a developer illustration or avatar) for your profile too?
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-You said:
-give me new suggestion
-
-
-ChatGPT said:
-Sure! Here's a fresh, modern, and clean GitHub README.md concept tailored for you — with a new style, focused branding, and minimalistic design that works well for recruiters and developers alike.
-
-✅ STYLE: Clean · Focused · Modern Tech Portfolio
-This version emphasizes clarity, branding, and professionalism — no unnecessary clutter, but still visually attractive with emojis and subtle flair.
-
-markdown
-Copy
-Edit
-<!-- GitHub Profile README - Rahil Khan -->
-
-<h1 align="center">Hi, I'm Rahil Khan 👋</h1>
-<h3 align="center">Web Developer | WordPress Expert | Tech Enthusiast</h3>
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress Logo" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=150&section=footer" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 🎓 **M.Sc. Information Technology** (2024 Graduate)  
-- 💼 **2 years** of professional experience at **Enfuse Solutions Pvt Ltd**  
-- 🧠 Passionate about clean design, seamless UX, and scalable web tech  
-- 🌱 Currently enhancing my **full-stack & mobile development** skills  
-
----
-
-### 🛠️ Skills & Tools
-
-**Languages & Frameworks:**  
-`HTML` · `CSS` · `Java` · `JavaScript`
-
-**CMS & Web:**  
-`WordPress` · `WooCommerce` · `Elementor`
-
-**Tools & IDEs:**  
-`Android Studio` · `Visual Studio Code` · `Git & GitHub`
-
----
-
-### 📜 Certifications
-
-- ✅ Web Development Certificate  
-- ✅ Java Programming Certificate
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahilkhan-dev&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahilkhan-dev&theme=gruvbox" width="47%" />
-</p>
-
----
-
-### 📬 Contact Me
-
-- 📧 rahilkhan@example.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rahilkhan)
-
----
-
-<p align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</p>
-🔧 Optional Enhancements You Can Add:
-Add an animated avatar or hero banner
-
-Include a visitor counter (if you want to track profile views)
-
-Link to a portfolio site or resume PDF
-
-Add project showcase cards using pinned repositories
-
-Would you like me to generate a custom banner image or avatar to include in this README.md? It could have your name, role, and some icons in a nice design.
-
-
-
-
-
-
-
-
-
-
